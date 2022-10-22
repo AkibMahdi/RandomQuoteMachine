@@ -1,0 +1,2 @@
+# RandomQuoteMachine
+Based from FreeCodeCamp
